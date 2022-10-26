@@ -9,5 +9,8 @@ Figma (tervrajz) link: https://www.figma.com/file/whgA9nNZMB7rPgLjFqUa4a/Projekt
 Téma: Neumann János élete és munkássága
 
 Források:
+https://hu.wikipedia.org/wiki/Neumann_J%C3%A1nos
+https://njszt.hu/hu/page/neumann-janos-eletrajza
+https://www.uni-miskolc.hu/evml/database/downloads/neumann.pdf
 
 ---

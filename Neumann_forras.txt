@@ -1,0 +1,46 @@
+Élete: 
+Született: 1903. December 28- Budapest 
+Édesanyja: Kann Margit 
+Édesapja: Neumann Miksa 
+Meghalt: 1957. Február 8.
+Magán élete:
+1903. december 28-án született Neumann Miksa és Kann Margit első gyermekeként Budapesten, a Váci körút (ma Bajcsy-Zsilinszky út) 62. szám alatt. Jánosnak később két öccse volt: Mihály (1907) és Miklós (1911). Édesapja pécsi származású, ügyvédként dolgozott Budapesten, majd a Magyar Jelzálogés Hitelbankhoz került előbb jogi főtanácsadóként, majd bankigazgatóként. János anyja, Margit vezette a házat és nevelte fiait.
+1913. február 20-án Neumann János édesapja, Neumann Miksa I. Ferenc József magyar királytól a magyar nemességet és a „Margittai” nemesi nevet kapta ajándékba. Így a leszármazottai is megszerezték a nemesi név használatának jogát. Fia, Neumann János így lett hivatalosan is “Margittai Neumann János”, aki későbbi külföldi tartózkodása során felvette a Johann von Neumann, majd a Neumann János nevet, akiről ma is világszerte ismerik. 
+A Neumann családban gyakran beszélgettek a tudományról, a zenéről, a színházról és az irodalomról. A gyerekek már korán megtanultak németül és franciául nevelőnőiktől. Gyakoriak voltak a vendégek is a házban, jöttek külföldiek és magyarok egyaránt. A magyar értelmiségi elit jeles képviselői is tisztelegtek a neumannok előtt, így Ortvay Rudolf, a budapesti Tudományegyetem Elméleti Fizikai Intézetének igazgatója, Fejér Lipót matematikaprofesszor. János már korán olyan képességeket mutatott, amelyek messze felülmúlták kortársaiét. A magyar, francia és német anyanyelvén kívül latint és ógörögöt is tanult, memóriája szinte fényképes volt, fejszámolásban is figyelemre méltó eredményeket ért el. Élete végéig görögül Thuküdidészt, franciául Voltaire-t idézte.
+1929-ben a Princetoni Egyetem meghívta vendégprofesszornak.1930 és 1933 között minden félévben az Egyesült Államokban és minden félévben Európában tanított. 
+1935-ben Kövesi Mariettától, első feleségétől megszületett Marina (von Neumann Whitman) nevű lánya, aki híres közgazdász. 1937-ben megkapta az amerikai állampolgárságot. Részt vett a nácizmus elleni katonai előkészületekben. Miután elvált, 1938. november 17-én Budapesten, a Terézvárosban feleségül vette Dán Klárát.
+1945 és 1957 között a Princeton Electronic Computer Program igazgatója volt.
+1956 elején kórházba került. Utolsó művét 1956-ban írta, amely szintén a számítógépekkel foglalkozott. Neumann 1957. február 8-án halt meg Washingtonban, D.C.-ben, az Egyesült Államokban.
+Iskolái:
+Neumannt 10 éves kora előtt csodagyereknek tartották, és 1913-ban szülei Faso tekintélyes evangélikus gimnáziumába küldték.
+1921-ben Neumann matematikát tanult a budapesti egyetemen. Egyetemi évei alatt hosszú időt töltött Berlinben, ahol Fritz Habernél kémiát, Albert Einsteinnél statisztikus mechanikát, Erhard Schmidtnél matematikát tanult. Berlinben szoros kapcsolatot ápolt Wignerrel, Szilárd Leóval és Gábor Dénessel. Apja kérésére Neumann 1923-ban Zürichbe utazott, hogy kémiát tanuljon a Zürichi Műszaki Egyetemen. 1925-ben vegyészmérnöki oklevelet szerzett (szakdolgozata egy naftalin nevű vegyület előállítására vonatkozott), majd egy évvel később matematikából doktorált Budapesten.
+Munkássága:
+Számos területen volt szakértő Neumann a matematikában, fizikában, az informatikában és volt vegyészeti végzettsége is.
+Neumann fontos eredményeket ért el az axiomatikus halmazelméletben, a funkcionálanalízisben, vizsgálta a Hilbert-terek operátorait és önadjungált transzformációit, tanulmányozta az ilyen operátorokból álló gyűrűket (az ˙ún. Neumann-algebrákat). Bevezette és vizsgálta a Neumann-regulárisnak nevezett gyűrűk osztályát. Alapvető munkákat írt az általa kezdeményezett folytonos geometriában is, amellyel olyan geometriákat nyert, ahol a dimenziószám nemcsak pozitív egész szám lehet. Van néhány a számelmélettel kapcsolatos munkája is. Ő alapozta meg a játékelméletet is. 1944-ben O.
+Morgensternnel együtt megírták a téma első monográfiáját benne a minimax-tétellel.
+Neumann jól ismerte az elméleti fizikát is. A második világháború idején. részt vett az atomenergia kutatásokban például a Manhattan-tervben. Később kinevezték az Atomenergia Bizottság tagjává is.
+A számítógépekkel Hermann Heine Goldstine révén ismerkedett meg.
+1944-ben a Pennsylvaniai Egyetemen döntően hozzájárult az első teljesen elektronikus digitális számítógép ENIAC és késöbb az EDVAC. Az EDVAC volt az első Neumann-elveken alapuló számítógép.
+Neumann több elismerést is kapott külföldön:
+Tiszteletbeli doktora lett:
+a princetoni egyetemnek,
+a Pennsylvania-egyetemnek és Harvard-egyetemeknek
+az isztambuli és a Maryland-egyetemeknek
+a müncheni műegyetemnek
+a Columbia egyetemnek
+Tagja lett:
+National Academy of Sciences-nek
+az American Academy of Arts and Sciences-nek
+ a holland királyi akadémianak
+a Római Accademia Nazionale dei Lincei-nek
+a milanói Instituto Lombardo di Scienze e Lettere-nak
+a limai Academia Nacional de Ciencias Exactas-nak.
+1951-től elnöke lett az Amerikai Matematikai Társulatnak.
+1956-ban Enrico Fermi díjat kapott és Szabadség Èrdemrendet adományoztak a számára.
+Neumann-elvek:
+1)Legyen teljesen elektronikus.
+2)A gép egyszerre egy műveletet hajt végre, de azt igen gyorsan.
+3)Használjon kettes számrendszert. Ez a számolási műveletek jelentősen leegyszerűsítette a számítógép számára, nő a sebesség, csökken a tárolási igény.
+4)Használjon belső memóriát. A számítógép gyors működése következtében nincs értelme annak, hogy minden egyes lépés után emberi beavatkozás történjen a számítás menetében. A belső memóriában a részeredmények tárolhatók, és így a gép egy bizonyos műveletsorozatot automatikusan el tud végezni.
+5)Tárolt program elve: A számítások menetére vonatkozó utasítások kifejezhetők számmal, azaz adatként kezelhetők. Így ezek éppúgy a belső memóriában tárolhatók, mint bármilyen más adat. Azáltal, hogy a számsítógép belső memóriájában utasításokat tárolhat, a számítógép önállóan képes dolgozni, mivel mindegyik lépés után memóriája utasítja a további teendőkre anélkül, hogy emberi beavatkozásra kellene várnia.
+6)Legyen univerzális a gép. A számítógép különféle feladatainak elvégzésére nem kell speciális gépeket készíteni.
